@@ -48,4 +48,4 @@ temp_list.append("")
 
 planet_data.append(temp_list)
 ### *Code for scrape():*
-![image](https://user-images.githubusercontent.com/74312429/148648496-05e18d58-496a-4a0c-8cbb-bb3eda55ac5e.png)
+![image](https://user-images.githubusercontent.com/74312429/148648562-8e9074e2-7abc-4aaa-80f5-4aab7a474389.png)
