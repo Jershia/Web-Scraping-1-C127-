@@ -58,3 +58,16 @@ planet_data.append(temp_list)
 ````
 ### *Code for scrape():*
 ![image](https://user-images.githubusercontent.com/74312429/148648562-8e9074e2-7abc-4aaa-80f5-4aab7a474389.png)
+### *Code for activating venv*
+````
+python -m venv venv
+#open venv in integrated terminal
+cd Scripts
+.\activate.bat
+````
+## New Terms :
+ * *Beautiful soup targets html tags.html.parser the data.
+ * *enumerate add index numbers.*
+ * *xpath is used to navigate through elements in xml document.*
+ * *BeautifulSoup(bs4):- used for parsing text as html and performing actions in it like finding specific html tags with a particular id,class,ul,il tag etc..*
+ * *Selenium:-used for browsing over websites.*
