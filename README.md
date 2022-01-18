@@ -2,7 +2,7 @@
 * We scraped the stars data from Nasa’s site
 
  ## Used
-  * Usage of selenium
+  * Usage of selenium(In our project we haven't used selenium)
   * Usage of Beautiful soup
   * Getting data from Html of a page
 
